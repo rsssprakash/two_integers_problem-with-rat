@@ -22,6 +22,7 @@ def rat_food(r, unit, arr):
 r = 7
 unit = 2
 arr = [2, 8, 3, 5, 7, 4, 1, 2]
+# to print the output
 print(rat_food(r, unit, arr))
 
-#just modification for git pratice.
+#just modification for git pratice
